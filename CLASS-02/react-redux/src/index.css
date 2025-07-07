@@ -1,0 +1,27 @@
+.counter-wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.innerCounter{
+    max-width: 800px;
+    padding: 20px;
+    background-color: aqua;
+    text-align: center;
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+button{
+    padding: 10px;
+    font-size: 18px;
+}
+span{
+    font-size: 40px;
+}
+input{
+    width: 25%;
+    padding: 15px;
+    font-size: 18px;
+}
